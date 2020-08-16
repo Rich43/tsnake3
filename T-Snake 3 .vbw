@@ -1,0 +1,7 @@
+MainForm = 63, 160, 765, 625, , 29, 23, 809, 653, C
+modGamePlay = 116, 107, 818, 572, C
+modEngine = 110, 145, 812, 610, C
+modVariables = 87, 132, 789, 597, 
+modAdditionalCode = 0, 0, 702, 465, C
+ConnectForm = 154, 203, 856, 668, , 132, 174, 834, 639, C
+ServerForm = 88, 116, 790, 581, , 66, 87, 768, 552, C
